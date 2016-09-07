@@ -1,0 +1,28 @@
+
+#form_reg label, #form_log label {
+	text-align: left;
+	margin: 10px;
+}
+#form_reg input, #form_log input {
+	float: right;
+}
+#form_log, #form_reg  {
+	padding:50px;
+	background-color: WhiteSmoke;
+	width: 500px;
+	clear: both;
+	box-sizing: border-box;
+	height: auto;
+	margin: 50px;
+}
+.alert {
+	color: red;
+	font-size: 14px;
+	line-height: 10px;
+}
+.success {
+	color: green;
+}
+h3, p a, .alert{
+	margin-left: 50px;
+}
